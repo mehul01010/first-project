@@ -1,0 +1,14 @@
+body{
+
+    background-color: rgb(79, 128, 87);
+}
+table {
+
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+
+}
+td {
+     border : 2px  solid black ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
+}
